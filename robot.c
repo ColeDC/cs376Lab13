@@ -37,7 +37,7 @@ void robotPrintAscii(void)
 	 "UWR: Unidentified Wheeled Robot\n"
 	 "%s    i_i    \n"
 	 "%s   [@_@]   \n"
-	 "%s  /|___|\\ \n"
+	 "%s  /|o_o|\\ \n"
 	 "%s   d   b   \n",blank, blank, blank, blank);
 
   blank = blank - 10;
